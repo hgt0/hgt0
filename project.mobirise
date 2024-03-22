@@ -60,6 +60,7 @@
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": false,
+    "publishChangesOnly": false,
     "uniqCompNum": 1,
     "versionPublish": "5.9.17"
   },
